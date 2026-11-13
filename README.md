@@ -71,7 +71,14 @@ David G. Kamper, *Style Genericide* (in preparation). University of Chicago Law 
 
 ## How to cite
 
-Each release of this repository is archived at Zenodo, which gives it a permanent identifier (a DOI). Cite the release you used. `CITATION.cff` has the details, and GitHub's "Cite this repository" button reads it.
+Each release of this repository is archived at Zenodo, which gives it a permanent identifier (a DOI). Cite the release you used.
+
+- Run 1, second version (release `v1.0-run1`): https://doi.org/10.5281/zenodo.24184660
+- All versions (this link always goes to the newest release): https://doi.org/10.5281/zenodo.24184659
+
+For Run 1: David G. Kamper, *Style Genericide: Simulation Code and Outputs* (v1.0-run1, 2026), https://doi.org/10.5281/zenodo.24184660.
+
+`CITATION.cff` has the details, and GitHub's "Cite this repository" button reads it.
 
 ## Licence
 

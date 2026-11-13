@@ -6,6 +6,9 @@ version: v1.0-run1
 date-released: "2026-11-12"
 license: MIT
 repository-code: "https://github.com/DGK-Law-and-Cognition-Lab/Fair-Use-Style-Genericide-Computational"
+# This DOI covers all versions and always points to the newest release.
+# Each release also has a DOI of its own, listed in README.md.
+doi: 10.5281/zenodo.24184659
 abstract: >-
   A simulation of how AI imitation can wear away the link between artists and
   their styles ("style genericide"), and which legal rules keep that link.
