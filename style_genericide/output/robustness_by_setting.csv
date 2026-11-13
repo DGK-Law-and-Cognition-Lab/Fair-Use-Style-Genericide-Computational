@@ -1,0 +1,254 @@
+claim,setting,share_low_half,share_high_half,difference
+imitation erodes styles that never change (most popular artist below 0.9),nest,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),human_premium,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),identity_value,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),credit_effect,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),credit_memory,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),fan_share,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),learn_lag,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),familiarity_growth,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),renewal_cost,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),royalty,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),price_ai,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),ai_cost,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),max_closeness,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),variety,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),outdated_factor,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),ai_concentration,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),opt_out_leak,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),reservation_share,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),switch_familiarity,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),window,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),popularity_exponent,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),explore_floor,1.0,1.0,0.0
+imitation erodes styles that never change (most popular artist below 0.9),step,1.0,1.0,0.0
+the most popular artist's style erodes most,nest,1.0,1.0,0.0
+the most popular artist's style erodes most,human_premium,1.0,1.0,0.0
+the most popular artist's style erodes most,identity_value,1.0,1.0,0.0
+the most popular artist's style erodes most,credit_effect,1.0,1.0,0.0
+the most popular artist's style erodes most,credit_memory,1.0,1.0,0.0
+the most popular artist's style erodes most,fan_share,1.0,1.0,0.0
+the most popular artist's style erodes most,learn_lag,1.0,1.0,0.0
+the most popular artist's style erodes most,familiarity_growth,1.0,1.0,0.0
+the most popular artist's style erodes most,renewal_cost,1.0,1.0,0.0
+the most popular artist's style erodes most,royalty,1.0,1.0,0.0
+the most popular artist's style erodes most,price_ai,1.0,1.0,0.0
+the most popular artist's style erodes most,ai_cost,1.0,1.0,0.0
+the most popular artist's style erodes most,max_closeness,1.0,1.0,0.0
+the most popular artist's style erodes most,variety,1.0,1.0,0.0
+the most popular artist's style erodes most,outdated_factor,1.0,1.0,0.0
+the most popular artist's style erodes most,ai_concentration,1.0,1.0,0.0
+the most popular artist's style erodes most,opt_out_leak,1.0,1.0,0.0
+the most popular artist's style erodes most,reservation_share,1.0,1.0,0.0
+the most popular artist's style erodes most,switch_familiarity,1.0,1.0,0.0
+the most popular artist's style erodes most,window,1.0,1.0,0.0
+the most popular artist's style erodes most,popularity_exponent,1.0,1.0,0.0
+the most popular artist's style erodes most,explore_floor,1.0,1.0,0.0
+the most popular artist's style erodes most,step,1.0,1.0,0.0
+artists who respond keep their styles recognizable (0.9 or more),nest,0.139241,0.1125,-0.026741
+artists who respond keep their styles recognizable (0.9 or more),human_premium,0.177215,0.075,-0.102215
+artists who respond keep their styles recognizable (0.9 or more),identity_value,0.126582,0.125,-0.001582
+artists who respond keep their styles recognizable (0.9 or more),credit_effect,0.113924,0.1375,0.023576
+artists who respond keep their styles recognizable (0.9 or more),credit_memory,0.1375,0.113924,-0.023576
+artists who respond keep their styles recognizable (0.9 or more),fan_share,0.1125,0.139241,0.026741
+artists who respond keep their styles recognizable (0.9 or more),learn_lag,0.037975,0.2125,0.174525
+artists who respond keep their styles recognizable (0.9 or more),familiarity_growth,0.1125,0.139241,0.026741
+artists who respond keep their styles recognizable (0.9 or more),renewal_cost,0.2375,0.012658,-0.224842
+artists who respond keep their styles recognizable (0.9 or more),royalty,0.139241,0.1125,-0.026741
+artists who respond keep their styles recognizable (0.9 or more),price_ai,0.151899,0.1,-0.051899
+artists who respond keep their styles recognizable (0.9 or more),ai_cost,0.050633,0.2,0.149367
+artists who respond keep their styles recognizable (0.9 or more),max_closeness,0.0375,0.21519,0.17769
+artists who respond keep their styles recognizable (0.9 or more),variety,0.1125,0.139241,0.026741
+artists who respond keep their styles recognizable (0.9 or more),outdated_factor,0.189873,0.0625,-0.127373
+artists who respond keep their styles recognizable (0.9 or more),ai_concentration,0.1875,0.063291,-0.124209
+artists who respond keep their styles recognizable (0.9 or more),opt_out_leak,0.1375,0.113924,-0.023576
+artists who respond keep their styles recognizable (0.9 or more),reservation_share,0.125,0.126582,0.001582
+artists who respond keep their styles recognizable (0.9 or more),switch_familiarity,0.1125,0.139241,0.026741
+artists who respond keep their styles recognizable (0.9 or more),window,0.139241,0.1125,-0.026741
+artists who respond keep their styles recognizable (0.9 or more),popularity_exponent,0.139241,0.1125,-0.026741
+artists who respond keep their styles recognizable (0.9 or more),explore_floor,0.0875,0.164557,0.077057
+artists who respond keep their styles recognizable (0.9 or more),step,0.164557,0.0875,-0.077057
+artists lose income under fair use,nest,1.0,1.0,0.0
+artists lose income under fair use,human_premium,1.0,1.0,0.0
+artists lose income under fair use,identity_value,1.0,1.0,0.0
+artists lose income under fair use,credit_effect,1.0,1.0,0.0
+artists lose income under fair use,credit_memory,1.0,1.0,0.0
+artists lose income under fair use,fan_share,1.0,1.0,0.0
+artists lose income under fair use,learn_lag,1.0,1.0,0.0
+artists lose income under fair use,familiarity_growth,1.0,1.0,0.0
+artists lose income under fair use,renewal_cost,1.0,1.0,0.0
+artists lose income under fair use,royalty,1.0,1.0,0.0
+artists lose income under fair use,price_ai,1.0,1.0,0.0
+artists lose income under fair use,ai_cost,1.0,1.0,0.0
+artists lose income under fair use,max_closeness,1.0,1.0,0.0
+artists lose income under fair use,variety,1.0,1.0,0.0
+artists lose income under fair use,outdated_factor,1.0,1.0,0.0
+artists lose income under fair use,ai_concentration,1.0,1.0,0.0
+artists lose income under fair use,opt_out_leak,1.0,1.0,0.0
+artists lose income under fair use,reservation_share,1.0,1.0,0.0
+artists lose income under fair use,switch_familiarity,1.0,1.0,0.0
+artists lose income under fair use,window,1.0,1.0,0.0
+artists lose income under fair use,popularity_exponent,1.0,1.0,0.0
+artists lose income under fair use,explore_floor,1.0,1.0,0.0
+artists lose income under fair use,step,1.0,1.0,0.0
+opt-out gives artists the highest median income of the regimes with AI,nest,0.1,0.1,0.0
+opt-out gives artists the highest median income of the regimes with AI,human_premium,0.1125,0.0875,-0.025
+opt-out gives artists the highest median income of the regimes with AI,identity_value,0.0625,0.1375,0.075
+opt-out gives artists the highest median income of the regimes with AI,credit_effect,0.0875,0.1125,0.025
+opt-out gives artists the highest median income of the regimes with AI,credit_memory,0.1375,0.0625,-0.075
+opt-out gives artists the highest median income of the regimes with AI,fan_share,0.0375,0.1625,0.125
+opt-out gives artists the highest median income of the regimes with AI,learn_lag,0.1,0.1,0.0
+opt-out gives artists the highest median income of the regimes with AI,familiarity_growth,0.0875,0.1125,0.025
+opt-out gives artists the highest median income of the regimes with AI,renewal_cost,0.1125,0.0875,-0.025
+opt-out gives artists the highest median income of the regimes with AI,royalty,0.1375,0.0625,-0.075
+opt-out gives artists the highest median income of the regimes with AI,price_ai,0.05,0.15,0.1
+opt-out gives artists the highest median income of the regimes with AI,ai_cost,0.0875,0.1125,0.025
+opt-out gives artists the highest median income of the regimes with AI,max_closeness,0.0625,0.1375,0.075
+opt-out gives artists the highest median income of the regimes with AI,variety,0.1375,0.0625,-0.075
+opt-out gives artists the highest median income of the regimes with AI,outdated_factor,0.1125,0.0875,-0.025
+opt-out gives artists the highest median income of the regimes with AI,ai_concentration,0.0875,0.1125,0.025
+opt-out gives artists the highest median income of the regimes with AI,opt_out_leak,0.1875,0.0125,-0.175
+opt-out gives artists the highest median income of the regimes with AI,reservation_share,0.1375,0.0625,-0.075
+opt-out gives artists the highest median income of the regimes with AI,switch_familiarity,0.075,0.125,0.05
+opt-out gives artists the highest median income of the regimes with AI,window,0.075,0.125,0.05
+opt-out gives artists the highest median income of the regimes with AI,popularity_exponent,0.1,0.1,0.0
+opt-out gives artists the highest median income of the regimes with AI,explore_floor,0.0875,0.1125,0.025
+opt-out gives artists the highest median income of the regimes with AI,step,0.0625,0.1375,0.075
+a Shapley licence keeps at least as many artists working as fair use,nest,0.825,0.8625,0.0375
+a Shapley licence keeps at least as many artists working as fair use,human_premium,0.8875,0.8,-0.0875
+a Shapley licence keeps at least as many artists working as fair use,identity_value,0.8,0.8875,0.0875
+a Shapley licence keeps at least as many artists working as fair use,credit_effect,0.8375,0.85,0.0125
+a Shapley licence keeps at least as many artists working as fair use,credit_memory,0.8375,0.85,0.0125
+a Shapley licence keeps at least as many artists working as fair use,fan_share,0.8875,0.8,-0.0875
+a Shapley licence keeps at least as many artists working as fair use,learn_lag,0.8375,0.85,0.0125
+a Shapley licence keeps at least as many artists working as fair use,familiarity_growth,0.8,0.8875,0.0875
+a Shapley licence keeps at least as many artists working as fair use,renewal_cost,0.8,0.8875,0.0875
+a Shapley licence keeps at least as many artists working as fair use,royalty,0.8875,0.8,-0.0875
+a Shapley licence keeps at least as many artists working as fair use,price_ai,0.875,0.8125,-0.0625
+a Shapley licence keeps at least as many artists working as fair use,ai_cost,0.8375,0.85,0.0125
+a Shapley licence keeps at least as many artists working as fair use,max_closeness,0.8875,0.8,-0.0875
+a Shapley licence keeps at least as many artists working as fair use,variety,0.925,0.7625,-0.1625
+a Shapley licence keeps at least as many artists working as fair use,outdated_factor,0.8125,0.875,0.0625
+a Shapley licence keeps at least as many artists working as fair use,ai_concentration,0.8125,0.875,0.0625
+a Shapley licence keeps at least as many artists working as fair use,opt_out_leak,0.8875,0.8,-0.0875
+a Shapley licence keeps at least as many artists working as fair use,reservation_share,0.85,0.8375,-0.0125
+a Shapley licence keeps at least as many artists working as fair use,switch_familiarity,0.85,0.8375,-0.0125
+a Shapley licence keeps at least as many artists working as fair use,window,0.85,0.8375,-0.0125
+a Shapley licence keeps at least as many artists working as fair use,popularity_exponent,0.8625,0.825,-0.0375
+a Shapley licence keeps at least as many artists working as fair use,explore_floor,0.85,0.8375,-0.0125
+a Shapley licence keeps at least as many artists working as fair use,step,0.7875,0.9,0.1125
+a Shapley licence keeps at least as many artists working as leave-one-out,nest,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,human_premium,0.95,0.8875,-0.0625
+a Shapley licence keeps at least as many artists working as leave-one-out,identity_value,0.9375,0.9,-0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,credit_effect,0.9125,0.925,0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,credit_memory,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,fan_share,0.9375,0.9,-0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,learn_lag,0.9125,0.925,0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,familiarity_growth,0.9125,0.925,0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,renewal_cost,0.9375,0.9,-0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,royalty,0.95,0.8875,-0.0625
+a Shapley licence keeps at least as many artists working as leave-one-out,price_ai,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,ai_cost,0.9125,0.925,0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,max_closeness,0.9875,0.85,-0.1375
+a Shapley licence keeps at least as many artists working as leave-one-out,variety,0.95,0.8875,-0.0625
+a Shapley licence keeps at least as many artists working as leave-one-out,outdated_factor,0.925,0.9125,-0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,ai_concentration,0.925,0.9125,-0.0125
+a Shapley licence keeps at least as many artists working as leave-one-out,opt_out_leak,0.95,0.8875,-0.0625
+a Shapley licence keeps at least as many artists working as leave-one-out,reservation_share,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,switch_familiarity,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,window,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,popularity_exponent,0.9,0.9375,0.0375
+a Shapley licence keeps at least as many artists working as leave-one-out,explore_floor,0.8875,0.95,0.0625
+a Shapley licence keeps at least as many artists working as leave-one-out,step,0.9375,0.9,-0.0375
+under the participation rule the AI company makes nothing,nest,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,human_premium,0.0375,0.075,0.0375
+under the participation rule the AI company makes nothing,identity_value,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,credit_effect,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,credit_memory,0.025,0.0875,0.0625
+under the participation rule the AI company makes nothing,fan_share,0.0875,0.025,-0.0625
+under the participation rule the AI company makes nothing,learn_lag,0.075,0.0375,-0.0375
+under the participation rule the AI company makes nothing,familiarity_growth,0.0625,0.05,-0.0125
+under the participation rule the AI company makes nothing,renewal_cost,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,royalty,0.0125,0.1,0.0875
+under the participation rule the AI company makes nothing,price_ai,0.1125,0.0,-0.1125
+under the participation rule the AI company makes nothing,ai_cost,0.075,0.0375,-0.0375
+under the participation rule the AI company makes nothing,max_closeness,0.0375,0.075,0.0375
+under the participation rule the AI company makes nothing,variety,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,outdated_factor,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,ai_concentration,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,opt_out_leak,0.0125,0.1,0.0875
+under the participation rule the AI company makes nothing,reservation_share,0.075,0.0375,-0.0375
+under the participation rule the AI company makes nothing,switch_familiarity,0.0625,0.05,-0.0125
+under the participation rule the AI company makes nothing,window,0.0375,0.075,0.0375
+under the participation rule the AI company makes nothing,popularity_exponent,0.05,0.0625,0.0125
+under the participation rule the AI company makes nothing,explore_floor,0.0625,0.05,-0.0125
+under the participation rule the AI company makes nothing,step,0.075,0.0375,-0.0375
+crediting the artist means fewer new signatures,nest,0.164557,0.1625,-0.002057
+crediting the artist means fewer new signatures,human_premium,0.189873,0.1375,-0.052373
+crediting the artist means fewer new signatures,identity_value,0.151899,0.175,0.023101
+crediting the artist means fewer new signatures,credit_effect,0.189873,0.1375,-0.052373
+crediting the artist means fewer new signatures,credit_memory,0.1625,0.164557,0.002057
+crediting the artist means fewer new signatures,fan_share,0.1875,0.139241,-0.048259
+crediting the artist means fewer new signatures,learn_lag,0.088608,0.2375,0.148892
+crediting the artist means fewer new signatures,familiarity_growth,0.1375,0.189873,0.052373
+crediting the artist means fewer new signatures,renewal_cost,0.3125,0.012658,-0.299842
+crediting the artist means fewer new signatures,royalty,0.151899,0.175,0.023101
+crediting the artist means fewer new signatures,price_ai,0.189873,0.1375,-0.052373
+crediting the artist means fewer new signatures,ai_cost,0.139241,0.1875,0.048259
+crediting the artist means fewer new signatures,max_closeness,0.0875,0.240506,0.153006
+crediting the artist means fewer new signatures,variety,0.125,0.202532,0.077532
+crediting the artist means fewer new signatures,outdated_factor,0.202532,0.125,-0.077532
+crediting the artist means fewer new signatures,ai_concentration,0.1875,0.139241,-0.048259
+crediting the artist means fewer new signatures,opt_out_leak,0.1875,0.139241,-0.048259
+crediting the artist means fewer new signatures,reservation_share,0.2,0.126582,-0.073418
+crediting the artist means fewer new signatures,switch_familiarity,0.1125,0.21519,0.10269
+crediting the artist means fewer new signatures,window,0.189873,0.1375,-0.052373
+crediting the artist means fewer new signatures,popularity_exponent,0.164557,0.1625,-0.002057
+crediting the artist means fewer new signatures,explore_floor,0.1,0.227848,0.127848
+crediting the artist means fewer new signatures,step,0.177215,0.15,-0.027215
+buyers gain under fair use,nest,0.95,0.9,-0.05
+buyers gain under fair use,human_premium,0.9625,0.8875,-0.075
+buyers gain under fair use,identity_value,1.0,0.85,-0.15
+buyers gain under fair use,credit_effect,0.9375,0.9125,-0.025
+buyers gain under fair use,credit_memory,0.925,0.925,0.0
+buyers gain under fair use,fan_share,1.0,0.85,-0.15
+buyers gain under fair use,learn_lag,0.9125,0.9375,0.025
+buyers gain under fair use,familiarity_growth,0.9125,0.9375,0.025
+buyers gain under fair use,renewal_cost,0.9375,0.9125,-0.025
+buyers gain under fair use,royalty,0.9125,0.9375,0.025
+buyers gain under fair use,price_ai,0.975,0.875,-0.1
+buyers gain under fair use,ai_cost,0.925,0.925,0.0
+buyers gain under fair use,max_closeness,0.8875,0.9625,0.075
+buyers gain under fair use,variety,0.8625,0.9875,0.125
+buyers gain under fair use,outdated_factor,0.9125,0.9375,0.025
+buyers gain under fair use,ai_concentration,0.925,0.925,0.0
+buyers gain under fair use,opt_out_leak,0.925,0.925,0.0
+buyers gain under fair use,reservation_share,0.8875,0.9625,0.075
+buyers gain under fair use,switch_familiarity,0.925,0.925,0.0
+buyers gain under fair use,window,0.925,0.925,0.0
+buyers gain under fair use,popularity_exponent,0.9,0.95,0.05
+buyers gain under fair use,explore_floor,0.9,0.95,0.05
+buyers gain under fair use,step,0.9375,0.9125,-0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",nest,0.4625,0.5125,0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",human_premium,0.675,0.3,-0.375
+"total welfare rises under fair use (buyers, artists and the AI company together)",identity_value,0.625,0.35,-0.275
+"total welfare rises under fair use (buyers, artists and the AI company together)",credit_effect,0.525,0.45,-0.075
+"total welfare rises under fair use (buyers, artists and the AI company together)",credit_memory,0.5,0.475,-0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",fan_share,0.675,0.3,-0.375
+"total welfare rises under fair use (buyers, artists and the AI company together)",learn_lag,0.475,0.5,0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",familiarity_growth,0.5,0.475,-0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",renewal_cost,0.475,0.5,0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",royalty,0.4625,0.5125,0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",price_ai,0.4625,0.5125,0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",ai_cost,0.5125,0.4625,-0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",max_closeness,0.4625,0.5125,0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",variety,0.3125,0.6625,0.35
+"total welfare rises under fair use (buyers, artists and the AI company together)",outdated_factor,0.4125,0.5625,0.15
+"total welfare rises under fair use (buyers, artists and the AI company together)",ai_concentration,0.5,0.475,-0.025
+"total welfare rises under fair use (buyers, artists and the AI company together)",opt_out_leak,0.525,0.45,-0.075
+"total welfare rises under fair use (buyers, artists and the AI company together)",reservation_share,0.35,0.625,0.275
+"total welfare rises under fair use (buyers, artists and the AI company together)",switch_familiarity,0.45,0.525,0.075
+"total welfare rises under fair use (buyers, artists and the AI company together)",window,0.4625,0.5125,0.05
+"total welfare rises under fair use (buyers, artists and the AI company together)",popularity_exponent,0.4875,0.4875,0.0
+"total welfare rises under fair use (buyers, artists and the AI company together)",explore_floor,0.45,0.525,0.075
+"total welfare rises under fair use (buyers, artists and the AI company together)",step,0.4375,0.5375,0.1

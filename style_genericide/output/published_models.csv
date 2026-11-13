@@ -1,0 +1,78 @@
+paper,result,case,quantity,published,simulated
+Keinan and Ben-Porat (2026),Lemma 2,rho = 0.05,"profiles where sharing pays but rho <= tau, or the reverse",0,0
+Keinan and Ben-Porat (2026),Lemma 2,rho = 0.1,"profiles where sharing pays but rho <= tau, or the reverse",0,0
+Keinan and Ben-Porat (2026),Lemma 2,rho = 0.2,"profiles where sharing pays but rho <= tau, or the reverse",0,0
+Keinan and Ben-Porat (2026),"Lemma 3, Proposition 7","rho = 0.0, all must share",mean quality,9.497275,9.666667
+Keinan and Ben-Porat (2026),Lemma 3,"rho = 0.0, all must share",largest gain from changing quality alone (share of pay),0,0.002501
+Keinan and Ben-Porat (2026),"Lemma 3, Proposition 7","rho = 0.25, all must share",mean quality,11.237612,11.333333
+Keinan and Ben-Porat (2026),Lemma 3,"rho = 0.25, all must share",largest gain from changing quality alone (share of pay),0,0.003268
+Keinan and Ben-Porat (2026),"Lemma 3, Proposition 7","rho = 0.5, all must share",mean quality,13.062969,13.083333
+Keinan and Ben-Porat (2026),Lemma 3,"rho = 0.5, all must share",largest gain from changing quality alone (share of pay),0,0.003676
+Keinan and Ben-Porat (2026),"Lemma 3, Proposition 7","rho = 0.75, all must share",mean quality,14.968362,15.0
+Keinan and Ben-Porat (2026),Lemma 3,"rho = 0.75, all must share",largest gain from changing quality alone (share of pay),0,0.00752
+Keinan and Ben-Porat (2026),"Lemma 3, Proposition 7","rho = 1.0, all must share",mean quality,16.949541,16.833333
+Keinan and Ben-Porat (2026),Lemma 3,"rho = 1.0, all must share",largest gain from changing quality alone (share of pay),0,0.009864
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.0, qualities fixed",creators sharing,0,0
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.0, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.05, qualities fixed",creators sharing,8,5
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.05, qualities fixed",largest gain from switching alone (share of pay),0,0.014936
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.1, qualities fixed",creators sharing,8,8
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.1, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.15, qualities fixed",creators sharing,11,11
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.15, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.2, qualities fixed",creators sharing,11,11
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.2, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 0.3, qualities fixed",creators sharing,12,12
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 0.3, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, Proposition 4","rho = 1.0, qualities fixed",creators sharing,12,12
+Keinan and Ben-Porat (2026),Lemma 2,"rho = 1.0, qualities fixed",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, 100 rounds","rho = 0.05, qualities fixed, 100 rounds",largest gain from switching alone (share of pay),0,0.089519
+Keinan and Ben-Porat (2026),"Lemma 2, 100 rounds","rho = 0.1, qualities fixed, 100 rounds",largest gain from switching alone (share of pay),0,0.100868
+Keinan and Ben-Porat (2026),"Lemma 2, 100 rounds","rho = 0.2, qualities fixed, 100 rounds",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Lemma 2, 100 rounds","rho = 0.3, qualities fixed, 100 rounds",largest gain from switching alone (share of pay),0,0.0
+Keinan and Ben-Porat (2026),"Definition 1, Theorem 5","rho = 0.0, quality and sharing",creators sharing,0,0
+Keinan and Ben-Porat (2026),"Definition 1, Theorem 5","rho = 0.25, quality and sharing",creators sharing,12,12
+Keinan and Ben-Porat (2026),"Definition 1, Theorem 5","rho = 0.5, quality and sharing",creators sharing,12,12
+Keinan and Ben-Porat (2026),"Definition 1, Theorem 5","rho = 1.0, quality and sharing",creators sharing,12,12
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.05,lowest skill that makes anything,0.272222,0.2725
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.05,lowest skill that makes by hand,0.57193,0.5725
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.15,lowest skill that makes anything,0.122222,0.1225
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.15,lowest skill that makes by hand,0.619298,0.6225
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.4,lowest skill that makes anything,0.0,0.0025
+Yang and Zhang (2025),Proposition 4.1,AI quality 0.4,lowest skill that makes by hand,0.737719,0.7425
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","lowest skill that makes by hand, period 1",0.737719,0.7425
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","AI quality, period 2",1.0,1.0
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","high-quality AI works, period 2",1.6,1.6
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","creator income, period 2",0.476,0.476
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","welfare, period 2",1.5,1.5
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.0","consumer surplus, period 2",1.024,1.024
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","lowest skill that makes by hand, period 1",0.737719,0.7425
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","AI quality, period 2",0.9508,0.9508
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","high-quality AI works, period 2",1.4265,1.425942
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","creator income, period 2",0.403174,0.403174
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","welfare, period 2",1.412494,1.412342
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.1","consumer surplus, period 2",0.959299,0.959163
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","lowest skill that makes by hand, period 1",0.737719,0.7425
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","AI quality, period 2",0.8956,0.8956
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","high-quality AI works, period 2",1.266025,1.264417
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","creator income, period 2",0.357879,0.357878
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","welfare, period 2",1.324154,1.323692
+Yang and Zhang (2025),Proposition 5.1,"plenty of old data, fee 0.2","consumer surplus, period 2",0.896327,0.895937
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","lowest skill that makes by hand, period 1",0.737719,0.7425
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","AI quality, period 2",0.807998,0.806374
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","high-quality AI works, period 2",1.249369,1.245873
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","creator income, period 2",0.395227,0.394574
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","welfare, period 2",1.248133,1.245973
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.0","consumer surplus, period 2",0.852905,0.851399
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","lowest skill that makes by hand, period 1",0.51946,0.5175
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","AI quality, period 2",0.8956,0.8956
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","high-quality AI works, period 2",1.266025,1.264417
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","creator income, period 2",0.357879,0.357878
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","welfare, period 2",1.324154,1.323692
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 0.2","consumer surplus, period 2",0.896327,0.895937
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","lowest skill that makes by hand, period 1",0.737719,0.7425
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","AI quality, period 2",0.4,0.4
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","high-quality AI works, period 2",0.571797,0.57424
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","creator income, period 2",0.248169,0.248166
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","welfare, period 2",0.796427,0.79664
+Yang and Zhang (2025),"Propositions 5.5 and 5.6, Figure 7","no old data, fee 1.0","consumer surplus, period 2",0.548258,0.548474

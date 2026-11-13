@@ -1,0 +1,185 @@
+{
+ "defaults": {
+  "nest": 0.5,
+  "human_premium": 0.8,
+  "identity_value": 1.0,
+  "credit_effect": 0.0,
+  "credit_memory": 0.5,
+  "fan_share": 0.5,
+  "learn_lag": 3,
+  "familiarity_growth": 0.15,
+  "renewal_cost": 1.0,
+  "n_buyers": 2000,
+  "price_human": 3.0,
+  "price_ai": 0.5,
+  "fan_quality": 3.5,
+  "decor_quality": 2.0,
+  "generic_quality": 0.5,
+  "variety": 0.3,
+  "outdated_factor": 0.5,
+  "ai_cost": 0.05,
+  "max_closeness": 0.7,
+  "ai_concentration": 1.0,
+  "work_cost": 0.5,
+  "royalty": 0.15,
+  "opt_out_leak": 0.0,
+  "switch_familiarity": 0.3,
+  "reservation_share": 0.5,
+  "window": 5,
+  "popularity_exponent": 0.8,
+  "ai_arrives": 20,
+  "learn_periods": 4800,
+  "measure_periods": 100,
+  "epoch": 48,
+  "settle": 16,
+  "step": 0.2,
+  "explore_start": 0.3,
+  "explore_floor": 0.05,
+  "explore_decay": 0.93
+ },
+ "periods": 4920,
+ "behavior_ranges": {
+  "nest": [
+   0.2,
+   1.0
+  ],
+  "human_premium": [
+   0.0,
+   2.0
+  ],
+  "identity_value": [
+   0.0,
+   2.0
+  ],
+  "credit_effect": [
+   -1.0,
+   1.0
+  ],
+  "credit_memory": [
+   0.0,
+   1.0
+  ],
+  "fan_share": [
+   0.2,
+   0.8
+  ],
+  "learn_lag": [
+   1,
+   6
+  ],
+  "familiarity_growth": [
+   0.05,
+   0.3
+  ],
+  "renewal_cost": [
+   0.25,
+   4.0
+  ]
+ },
+ "market_law_learning_ranges": {
+  "royalty": [
+   0.05,
+   0.4
+  ],
+  "price_ai": [
+   0.2,
+   1.5
+  ],
+  "ai_cost": [
+   0.01,
+   0.2
+  ],
+  "max_closeness": [
+   0.4,
+   1.0
+  ],
+  "variety": [
+   0.0,
+   0.6
+  ],
+  "outdated_factor": [
+   0.0,
+   1.0
+  ],
+  "ai_concentration": [
+   0.0,
+   2.0
+  ],
+  "opt_out_leak": [
+   0.0,
+   0.5
+  ],
+  "reservation_share": [
+   0.2,
+   0.9
+  ],
+  "switch_familiarity": [
+   0.1,
+   0.9
+  ],
+  "window": [
+   3,
+   10
+  ],
+  "popularity_exponent": [
+   0.3,
+   1.5
+  ],
+  "explore_floor": [
+   0.02,
+   0.1
+  ],
+  "step": [
+   0.1,
+   0.4
+  ]
+ },
+ "sobol_base_samples": 512,
+ "morris_trajectories": 12,
+ "robustness_points": 160,
+ "seeds": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "claims": [
+  "imitation erodes styles that never change (most popular artist below 0.9)",
+  "the most popular artist's style erodes most",
+  "artists who respond keep their styles recognizable (0.9 or more)",
+  "artists lose income under fair use",
+  "opt-out gives artists the highest median income of the regimes with AI",
+  "a Shapley licence keeps at least as many artists working as fair use",
+  "a Shapley licence keeps at least as many artists working as leave-one-out",
+  "under the participation rule the AI company makes nothing",
+  "crediting the artist means fewer new signatures",
+  "buyers gain under fair use",
+  "total welfare rises under fair use (buyers, artists and the AI company together)"
+ ]
+}

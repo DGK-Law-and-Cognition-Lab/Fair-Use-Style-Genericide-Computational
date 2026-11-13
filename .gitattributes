@@ -1,0 +1,4 @@
+# Keep every file byte for byte on every system. Without this, Git on Windows
+# rewrites line endings, and the checksums in style_genericide/output/MANIFEST.sha256
+# would no longer match.
+* -text

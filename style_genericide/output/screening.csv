@@ -1,0 +1,139 @@
+outcome,parameter,group,mu_star,mu,sigma,effects
+recognizability,nest,behavior,0.143069,0.015053,0.231585,11
+recognizability,human_premium,behavior,0.347206,-0.200141,0.416092,11
+recognizability,identity_value,behavior,0.562588,-0.274004,0.841416,12
+recognizability,credit_effect,behavior,0.0,0.0,0.0,12
+recognizability,credit_memory,behavior,0.0,0.0,0.0,12
+recognizability,fan_share,behavior,0.454723,0.231396,0.839434,11
+recognizability,learn_lag,behavior,0.373228,0.355163,0.503662,12
+recognizability,familiarity_growth,behavior,0.097013,0.087642,0.30787,12
+recognizability,renewal_cost,behavior,1.125836,-1.070818,1.392841,12
+recognizability,royalty,"market, law or learning",0.0,0.0,0.0,12
+recognizability,price_ai,"market, law or learning",0.495543,-0.495543,0.618268,11
+recognizability,ai_cost,"market, law or learning",0.5168,0.490773,0.669178,12
+recognizability,max_closeness,"market, law or learning",0.369317,-0.250102,0.415456,12
+recognizability,variety,"market, law or learning",0.908943,-0.721565,1.090457,11
+recognizability,outdated_factor,"market, law or learning",0.401105,-0.393004,0.795213,11
+recognizability,ai_concentration,"market, law or learning",0.514758,-0.187731,0.999546,12
+recognizability,opt_out_leak,"market, law or learning",0.0,0.0,0.0,12
+recognizability,reservation_share,"market, law or learning",0.116841,-0.042989,0.190849,12
+recognizability,switch_familiarity,"market, law or learning",0.632537,0.632537,1.20678,11
+recognizability,window,"market, law or learning",0.044336,0.039008,0.101071,12
+recognizability,popularity_exponent,"market, law or learning",0.529088,-0.415441,0.725173,12
+recognizability,explore_floor,"market, law or learning",0.039804,-0.038952,0.055803,12
+recognizability,step,"market, law or learning",0.014628,0.008335,0.032257,12
+income_median,nest,behavior,0.253012,-0.184495,0.33315,12
+income_median,human_premium,behavior,1.061719,1.052661,0.918493,12
+income_median,identity_value,behavior,0.345674,0.298736,0.418535,12
+income_median,credit_effect,behavior,0.0,0.0,0.0,12
+income_median,credit_memory,behavior,0.0,0.0,0.0,12
+income_median,fan_share,behavior,0.672966,0.651344,0.665106,12
+income_median,learn_lag,behavior,0.202082,0.191113,0.481772,12
+income_median,familiarity_growth,behavior,0.029541,0.016373,0.075786,12
+income_median,renewal_cost,behavior,0.249757,-0.244976,0.511127,12
+income_median,royalty,"market, law or learning",0.0,0.0,0.0,12
+income_median,price_ai,"market, law or learning",0.665572,0.66181,0.650265,12
+income_median,ai_cost,"market, law or learning",0.342499,0.342499,0.407474,12
+income_median,max_closeness,"market, law or learning",0.558275,-0.558275,0.739548,12
+income_median,variety,"market, law or learning",1.007205,-1.007168,0.921358,12
+income_median,outdated_factor,"market, law or learning",0.082646,-0.073801,0.163416,12
+income_median,ai_concentration,"market, law or learning",0.701816,0.701816,1.038783,12
+income_median,opt_out_leak,"market, law or learning",0.0,0.0,0.0,12
+income_median,reservation_share,"market, law or learning",0.907099,0.907099,0.79393,12
+income_median,switch_familiarity,"market, law or learning",0.02237,-0.008636,0.05629,12
+income_median,window,"market, law or learning",0.011764,0.011764,0.02099,12
+income_median,popularity_exponent,"market, law or learning",0.979686,-0.40235,1.097053,12
+income_median,explore_floor,"market, law or learning",0.005743,-0.005705,0.013205,12
+income_median,step,"market, law or learning",0.004564,-0.001289,0.011545,12
+artists_left,nest,behavior,0.352133,0.058689,0.589815,12
+artists_left,human_premium,behavior,0.821643,0.821643,0.854522,12
+artists_left,identity_value,behavior,0.381477,0.2641,0.457434,12
+artists_left,credit_effect,behavior,0.0,0.0,0.0,12
+artists_left,credit_memory,behavior,0.0,0.0,0.0,12
+artists_left,fan_share,behavior,0.352133,0.234755,0.524928,12
+artists_left,learn_lag,behavior,0.234755,0.234755,0.299255,12
+artists_left,familiarity_growth,behavior,0.029344,0.029344,0.097324,12
+artists_left,renewal_cost,behavior,0.234755,-0.234755,0.414992,12
+artists_left,royalty,"market, law or learning",0.0,0.0,0.0,12
+artists_left,price_ai,"market, law or learning",0.616232,0.557544,0.780252,12
+artists_left,ai_cost,"market, law or learning",0.2641,0.2641,0.355782,12
+artists_left,max_closeness,"market, law or learning",0.293444,-0.234755,0.439187,12
+artists_left,variety,"market, law or learning",1.085743,-1.085743,1.080177,12
+artists_left,outdated_factor,"market, law or learning",0.117378,-0.117378,0.299255,12
+artists_left,ai_concentration,"market, law or learning",0.674921,0.674921,0.947692,12
+artists_left,opt_out_leak,"market, law or learning",0.0,0.0,0.0,12
+artists_left,reservation_share,"market, law or learning",1.320498,-1.320498,1.168998,12
+artists_left,switch_familiarity,"market, law or learning",0.117378,0.117378,0.219593,12
+artists_left,window,"market, law or learning",0.0,0.0,0.0,12
+artists_left,popularity_exponent,"market, law or learning",0.586888,0.586888,0.679372,12
+artists_left,explore_floor,"market, law or learning",0.058689,0.058689,0.131232,12
+artists_left,step,"market, law or learning",0.0,0.0,0.0,12
+opt_out_gain_in_income,nest,behavior,0.253398,-0.10385,0.452909,12
+opt_out_gain_in_income,human_premium,behavior,0.709829,-0.166113,1.400997,12
+opt_out_gain_in_income,identity_value,behavior,0.484388,0.418576,0.655956,12
+opt_out_gain_in_income,credit_effect,behavior,0.0,0.0,0.0,12
+opt_out_gain_in_income,credit_memory,behavior,0.0,0.0,0.0,12
+opt_out_gain_in_income,fan_share,behavior,0.827546,0.611093,1.177806,12
+opt_out_gain_in_income,learn_lag,behavior,0.366307,-0.296357,0.826971,12
+opt_out_gain_in_income,familiarity_growth,behavior,0.192163,0.19176,0.468113,12
+opt_out_gain_in_income,renewal_cost,behavior,0.429214,-0.16167,0.917261,12
+opt_out_gain_in_income,royalty,"market, law or learning",0.0,0.0,0.0,12
+opt_out_gain_in_income,price_ai,"market, law or learning",0.620774,0.217552,0.987983,12
+opt_out_gain_in_income,ai_cost,"market, law or learning",0.274552,-0.185677,0.436704,12
+opt_out_gain_in_income,max_closeness,"market, law or learning",0.209508,0.180154,0.36049,12
+opt_out_gain_in_income,variety,"market, law or learning",0.537349,-0.487225,0.855373,12
+opt_out_gain_in_income,outdated_factor,"market, law or learning",0.338207,-0.196032,0.515103,12
+opt_out_gain_in_income,ai_concentration,"market, law or learning",0.516493,-0.376597,1.209573,12
+opt_out_gain_in_income,opt_out_leak,"market, law or learning",1.410418,-1.410418,1.487829,12
+opt_out_gain_in_income,reservation_share,"market, law or learning",0.658,-0.649102,0.909869,12
+opt_out_gain_in_income,switch_familiarity,"market, law or learning",0.17005,0.162263,0.384352,12
+opt_out_gain_in_income,window,"market, law or learning",0.009027,-0.0025,0.018215,12
+opt_out_gain_in_income,popularity_exponent,"market, law or learning",0.686133,0.572945,0.93287,12
+opt_out_gain_in_income,explore_floor,"market, law or learning",0.056993,-0.024967,0.136003,12
+opt_out_gain_in_income,step,"market, law or learning",0.077533,0.07136,0.164462,12
+licence_gain_in_income,nest,behavior,0.190265,-0.019164,0.380009,12
+licence_gain_in_income,human_premium,behavior,0.477884,-0.477884,0.416401,12
+licence_gain_in_income,identity_value,behavior,0.333779,0.050269,0.640954,12
+licence_gain_in_income,credit_effect,behavior,0.0,0.0,0.0,12
+licence_gain_in_income,credit_memory,behavior,0.0,0.0,0.0,12
+licence_gain_in_income,fan_share,behavior,0.558037,-0.558037,0.626989,12
+licence_gain_in_income,learn_lag,behavior,0.125969,-0.109788,0.340294,12
+licence_gain_in_income,familiarity_growth,behavior,0.029933,-0.011878,0.071193,12
+licence_gain_in_income,renewal_cost,behavior,0.260026,0.104582,0.573759,12
+licence_gain_in_income,royalty,"market, law or learning",2.199694,2.199694,2.086557,12
+licence_gain_in_income,price_ai,"market, law or learning",1.25352,-1.235076,1.666225,12
+licence_gain_in_income,ai_cost,"market, law or learning",0.120046,-0.120046,0.12049,12
+licence_gain_in_income,max_closeness,"market, law or learning",0.257042,-0.069126,0.465626,12
+licence_gain_in_income,variety,"market, law or learning",0.333635,0.323883,0.443968,12
+licence_gain_in_income,outdated_factor,"market, law or learning",0.071089,0.062331,0.144553,12
+licence_gain_in_income,ai_concentration,"market, law or learning",0.439252,-0.204683,0.573204,12
+licence_gain_in_income,opt_out_leak,"market, law or learning",0.0,0.0,0.0,12
+licence_gain_in_income,reservation_share,"market, law or learning",0.600673,-0.258288,0.930417,12
+licence_gain_in_income,switch_familiarity,"market, law or learning",0.025256,0.004972,0.05951,12
+licence_gain_in_income,window,"market, law or learning",0.009376,-0.005194,0.018495,12
+licence_gain_in_income,popularity_exponent,"market, law or learning",0.604588,0.185923,0.747059,12
+licence_gain_in_income,explore_floor,"market, law or learning",0.01456,0.007578,0.024925,12
+licence_gain_in_income,step,"market, law or learning",0.00452,0.001271,0.011431,12
+credit_cut_in_renewals,nest,behavior,0.072089,-0.072089,0.127171,11
+credit_cut_in_renewals,human_premium,behavior,0.860078,-0.649671,2.261871,11
+credit_cut_in_renewals,identity_value,behavior,0.365832,-0.058818,0.830914,12
+credit_cut_in_renewals,credit_effect,behavior,0.245913,-0.200574,0.629747,12
+credit_cut_in_renewals,credit_memory,behavior,0.180927,0.176608,0.400815,12
+credit_cut_in_renewals,fan_share,behavior,0.07113,0.07113,0.157541,11
+credit_cut_in_renewals,learn_lag,behavior,0.538677,0.082795,1.086804,12
+credit_cut_in_renewals,familiarity_growth,behavior,0.003393,-0.003393,0.011253,12
+credit_cut_in_renewals,renewal_cost,behavior,0.192534,-0.124843,0.456519,12
+credit_cut_in_renewals,royalty,"market, law or learning",0.0,0.0,0.0,12
+credit_cut_in_renewals,price_ai,"market, law or learning",0.057957,0.057957,0.112468,11
+credit_cut_in_renewals,ai_cost,"market, law or learning",0.020707,0.005201,0.052038,12
+credit_cut_in_renewals,max_closeness,"market, law or learning",0.246274,-0.246274,0.499024,12
+credit_cut_in_renewals,variety,"market, law or learning",0.080279,-0.010905,0.159751,11
+credit_cut_in_renewals,outdated_factor,"market, law or learning",0.164647,-0.161955,0.347386,11
+credit_cut_in_renewals,ai_concentration,"market, law or learning",0.157393,-0.157393,0.522014,12
+credit_cut_in_renewals,opt_out_leak,"market, law or learning",0.0,0.0,0.0,12
+credit_cut_in_renewals,reservation_share,"market, law or learning",0.641231,0.628277,2.107303,12
+credit_cut_in_renewals,switch_familiarity,"market, law or learning",0.280416,0.07288,0.6709,11
+credit_cut_in_renewals,window,"market, law or learning",0.067793,0.046203,0.138272,12
+credit_cut_in_renewals,popularity_exponent,"market, law or learning",1.000193,-0.965649,2.382128,12
+credit_cut_in_renewals,explore_floor,"market, law or learning",0.070404,-0.05745,0.151474,12
+credit_cut_in_renewals,step,"market, law or learning",0.0,0.0,0.0,12

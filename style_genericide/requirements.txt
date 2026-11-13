@@ -1,0 +1,5 @@
+# Python 3.12. Only the figures need these; the simulation is standard library.
+# Pillow writes the figure files, so its version decides their exact bytes.
+matplotlib==3.8.4
+numpy==1.26.4
+Pillow==10.3.0

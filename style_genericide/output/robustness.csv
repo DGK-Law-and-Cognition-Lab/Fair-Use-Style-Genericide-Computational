@@ -1,0 +1,12 @@
+claim,points,share_holding
+imitation erodes styles that never change (most popular artist below 0.9),160,1.0
+the most popular artist's style erodes most,160,1.0
+artists who respond keep their styles recognizable (0.9 or more),159,0.125786
+artists lose income under fair use,160,1.0
+opt-out gives artists the highest median income of the regimes with AI,160,0.1
+a Shapley licence keeps at least as many artists working as fair use,160,0.84375
+a Shapley licence keeps at least as many artists working as leave-one-out,160,0.91875
+under the participation rule the AI company makes nothing,160,0.05625
+crediting the artist means fewer new signatures,159,0.163522
+buyers gain under fair use,160,0.925
+"total welfare rises under fair use (buyers, artists and the AI company together)",160,0.4875

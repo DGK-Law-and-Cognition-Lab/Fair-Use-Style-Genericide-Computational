@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or its outputs, please cite it as below."
+type: software
+title: "Style Genericide: Simulation Code and Outputs"
+version: v1.0-run1
+date-released: "2026-11-12"
+license: MIT
+repository-code: "https://github.com/DGK-Law-and-Cognition-Lab/Fair-Use-Style-Genericide-Computational"
+abstract: >-
+  A simulation of how AI imitation can wear away the link between artists and
+  their styles ("style genericide"), and which legal rules keep that link.
+  Twelve artists, one AI company and buyers meet in a small art market under
+  seven legal regimes: no AI, fair use, opt-out, three licensing rules, and
+  crediting the artist. The artists and the AI company learn by trial and
+  error and then settle on choices that none of them can improve alone. The
+  repository holds the code, every saved table and figure, checksums, and
+  checks that rebuild the outputs byte for byte. This release is Run 1, second
+  version, of 5 November 2026, in which every setting is assumed, not
+  measured. It supports the Article "Style Genericide" by David G. Kamper.
+authors:
+  - given-names: "David G."
+    family-names: Kamper
+    affiliation: "University of Chicago Law School; Department of Psychology, University of California, Los Angeles"
+keywords:
+  - copyright
+  - fair use
+  - generative AI
+  - artistic style
+  - agent-based model
+  - multi-agent reinforcement learning
+  - sensitivity analysis
